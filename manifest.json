@@ -10,5 +10,5 @@
    "name": "New Tab Duty Calls",
    "permissions": [ "tabs" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.1"
+   "version": "1.2"
 }
